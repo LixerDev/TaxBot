@@ -3,6 +3,7 @@
 Crypto tax calculator for **Solana wallets**. Fetches your full transaction history, classifies every event, applies your chosen cost-basis method (FIFO / LIFO / HIFO), and exports a professional tax report in **CSV** and **PDF** for any fiscal year.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
