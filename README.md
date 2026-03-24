@@ -133,3 +133,8 @@ main.py (CLI)
             ├── Database      → SQLite cache (avoid re-fetching)
             └── Reporter      → CSV + PDF generation
 ```
+
+# 🧾 Coin
+
+<img width="1024" height="1024" alt="Adobe Express - file (9)" src="https://github.com/user-attachments/assets/c69b4f34-4fc0-4440-9530-97cda823a6f7" />
+
