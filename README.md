@@ -1,6 +1,7 @@
 # 🧾 TaxBot
 
-Crypto tax calculator for **Solana wallets**. Fetches your full transaction history, classifies every event, applies your chosen cost-basis method (FIFO / LIFO / HIFO), and exports a professional tax report in **CSV** and **PDF** for any fiscal year.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6e3f75c-df12-4fdb-9b35-76ef6297c3de" />
+
 
 **Built by LixerDev**
 Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
